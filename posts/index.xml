@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Archie</title>
-    <link>https://example.com/posts/</link>
+    <link>https://hzy312.github.io/posts/</link>
     <description>Recent content in Posts on Archie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Athul</copyright>
-    <lastBuildDate>Sun, 17 Jul 2022 23:41:22 +0800</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Jul 2022 23:41:22 +0800</lastBuildDate><atom:link href="https://hzy312.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example Post</title>
-      <link>https://example.com/posts/example-post/</link>
+      <link>https://hzy312.github.io/posts/example-post/</link>
       <pubDate>Sun, 17 Jul 2022 23:41:22 +0800</pubDate>
       
-      <guid>https://example.com/posts/example-post/</guid>
+      <guid>https://hzy312.github.io/posts/example-post/</guid>
       <description> 这是一个例子 </description>
     </item>
     
