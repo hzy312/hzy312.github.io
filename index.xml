@@ -27,14 +27,36 @@
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://hzy312.github.io/about/</link>
+      <title>Publication</title>
+      <link>https://hzy312.github.io/pub/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hzy312.github.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
-https://github.com/yuin/goldmark https://github.</description>
+      <guid>https://hzy312.github.io/pub/</guid>
+      <description>test publication 这是一个pub的测试
+paper
+code</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hzy312.github.io/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzy312.github.io/tags/</guid>
+      <description>title = &amp;ldquo;Tags&amp;rdquo; description = &amp;ldquo;tags&amp;rdquo; date = &amp;ldquo;2019-02-28&amp;rdquo; aliases = [&amp;ldquo;about-us&amp;rdquo;,&amp;ldquo;about-hugo&amp;rdquo;,&amp;ldquo;contact&amp;rdquo;] author = &amp;ldquo;HZY&amp;rdquo;
++++
+test tags 这是一个tag的测试</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hzy312.github.io/useful/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzy312.github.io/useful/</guid>
+      <description>title = &amp;ldquo;Useful Resources&amp;rdquo; description = &amp;ldquo;useful&amp;rdquo; date = &amp;ldquo;2019-02-28&amp;rdquo; aliases = [&amp;ldquo;about-us&amp;rdquo;,&amp;ldquo;about-hugo&amp;rdquo;,&amp;ldquo;contact&amp;rdquo;] author = &amp;ldquo;HZY&amp;rdquo;
++++
+acl anthology </description>
     </item>
     
   </channel>

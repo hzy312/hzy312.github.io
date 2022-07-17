@@ -14,8 +14,14 @@
     <loc>https://hzy312.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hzy312.github.io/about/</loc>
+    <loc>https://hzy312.github.io/pub/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hzy312.github.io/tags/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://hzy312.github.io/useful/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>https://hzy312.github.io/categories/</loc>
   </url><url>
