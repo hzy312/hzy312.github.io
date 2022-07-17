@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Archie</title>
+    <title>Categories on ZiYang&#39;s homepage</title>
     <link>https://hzy312.github.io/categories/</link>
-    <description>Recent content in Categories on Archie</description>
+    <description>Recent content in Categories on ZiYang&#39;s homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Athul</copyright><atom:link href="https://hzy312.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© ZiYang Huang</copyright><atom:link href="https://hzy312.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
