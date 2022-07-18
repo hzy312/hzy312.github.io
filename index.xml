@@ -27,24 +27,6 @@
     </item>
     
     <item>
-      <title>Example Post</title>
-      <link>https://hzy312.github.io/posts/example-post/</link>
-      <pubDate>Sun, 17 Jul 2022 23:41:22 +0800</pubDate>
-      
-      <guid>https://hzy312.github.io/posts/example-post/</guid>
-      <description> 这是一个例子 </description>
-    </item>
-    
-    <item>
-      <title>Useful Resources</title>
-      <link>https://hzy312.github.io/useful/</link>
-      <pubDate>Sun, 17 Jul 2022 23:41:22 +0800</pubDate>
-      
-      <guid>https://hzy312.github.io/useful/</guid>
-      <description> acl anthology </description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://hzy312.github.io/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
@@ -60,6 +42,15 @@
       
       <guid>https://hzy312.github.io/pub/</guid>
       <description>paper1 pdf code paper2 pdf code </description>
+    </item>
+    
+    <item>
+      <title>Useful Resources</title>
+      <link>https://hzy312.github.io/useful/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzy312.github.io/useful/</guid>
+      <description> acl anthology </description>
     </item>
     
   </channel>
