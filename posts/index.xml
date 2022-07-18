@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© ZiYang Huang</copyright>
-    <lastBuildDate>Sun, 17 Jul 2022 23:41:22 +0800</lastBuildDate><atom:link href="https://hzy312.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Jul 2022 18:03:37 +0800</lastBuildDate><atom:link href="https://hzy312.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aspect level sentiment analysis baseline code</title>
+      <link>https://hzy312.github.io/posts/souhu-absa/</link>
+      <pubDate>Mon, 18 Jul 2022 18:03:37 +0800</pubDate>
+      
+      <guid>https://hzy312.github.io/posts/souhu-absa/</guid>
+      <description> 用BERT做细粒度情感分析（ABSA）问题，以2022搜狐校园情感分析比赛的baseline代码为例进行分析 </description>
+    </item>
+    
+    <item>
+      <title>Bert Code Explanation</title>
+      <link>https://hzy312.github.io/posts/bert-code-explanation/</link>
+      <pubDate>Mon, 18 Jul 2022 03:00:57 +0800</pubDate>
+      
+      <guid>https://hzy312.github.io/posts/bert-code-explanation/</guid>
+      <description> BERT源码逐行解析 </description>
+    </item>
+    
     <item>
       <title>Example Post</title>
       <link>https://hzy312.github.io/posts/example-post/</link>
